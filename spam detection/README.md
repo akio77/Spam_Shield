@@ -5,7 +5,7 @@ This is a simple machine learning-based spam detection system that identifies wh
 ### 🔧 Files Included
 - `predictions.py` – Script to load the trained model and predict if a message is spam.
 - `spam_model_final.pkl` – Pre-trained spam detection model.
-- `spam.ipynb` – Jupyter Notebook used for model training and evaluation.
+- `Spam_Classifier_Prototype.ipynb` – Jupyter Notebook used for model training and evaluation.
 - `requirements.txt` – List of required Python packages.
 
 ### 🚀 How to Run
